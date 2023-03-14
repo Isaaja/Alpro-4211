@@ -23,6 +23,8 @@ int myFunction(int myArr[], int size)
     return sum;
 }
 
+
+
 float myFunction2(int myArr[], int size)
 {
     float sum = 0;
